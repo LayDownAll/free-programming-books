@@ -382,6 +382,7 @@
 
 
 ###C++
+* [Google C++ 编码风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/)
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
@@ -583,6 +584,10 @@
 * [Dev Docs](http://devdocs.io/)
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com/)  - Noel Rappin
 
+####JSON
+
+* [Google JSON 编码风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+
 ####Backbone.js
 
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
@@ -700,6 +705,7 @@ See also [TeX](#tex)
 * [Programming With Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf) (PDF)
 * [Object-Oriented Programming with Objective-C](http://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/OOP_ObjC.pdf) (PDF)
 * [Objective-C Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Google Objective-C 编码规范 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)（非常好，所有写obc的同学都可以根据这个规范自己的代码风格）
 
 
 ###OCaml
@@ -794,6 +800,7 @@ See also [TeX](#tex)
 
 
 ###Python
+* [Googlr Python 编码风格 指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Byte of Python](http://www.swaroopch.com/notes/Python)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/)
